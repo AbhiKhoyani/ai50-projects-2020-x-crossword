@@ -1,3 +1,3 @@
 # AbhiKhoyani
 
-Code for the Degrees Project from CS50 AI.
+Code for the Knights Project from CS50 AI.
