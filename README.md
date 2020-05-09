@@ -1,3 +1,3 @@
 # AbhiKhoyani
 
-Code for the Degrees Project from CS50 AI.
+All Projects for CS50 AI classes.
